@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm Ravikumar
----
 
 <img align="right" hieght="300" width="380" src="https://github.com/im-ravira/im-ravira/assets/121996576/a61e57fb-42d2-4f9e-992e-bc444548f472">
 
