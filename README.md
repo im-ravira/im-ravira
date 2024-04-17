@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ravikumar
 ---
 
-<p style="text-align: right"> <img hieght="240" width="320" src="https://github.com/im-ravira/im-ravira/assets/121996576/a61e57fb-42d2-4f9e-992e-bc444548f472">
+<p style="text-align: right"> <img hieght="240" width="320" src="https://github.com/im-ravira/im-ravira/assets/121996576/a61e57fb-42d2-4f9e-992e-bc444548f472"></p>
 
 #### A Self-thought React Developer
 - 🚀  I’m currently improving React skills and diving into front-end development.
